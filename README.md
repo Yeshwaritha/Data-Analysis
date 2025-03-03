@@ -1,6 +1,7 @@
 NUCLEAR SHAPE, TEXTURE, AND DIAGNOSIS: UNRAVELING THE LINK
-Project proposal
+
 We have chosen Wisconsin cancer data for the analysis. After a thorough examination of the dataset, we aim to find the following (research questions)
+
 1. Is there a relationship between the shape of the nucleus (compactness, concavity, fractal dimension) and the diagnosis?
 2. Do texture-related features (smoothness, symmetry) have an impact on the diagnosis?
 3. Is there any significant correlations between the various nuclei characteristics and the diagnosis?
@@ -28,6 +29,7 @@ The below variables are given in 3 calculative statistics in the data set as mea
 References
 
 Nick Street, W., Wolberg, W. H., & Mangasarian, O. L. (1993, July 29). Nuclear feature extraction for breast tumor diagnosis. Spie Digital Library. https://doi.org/10.1117/12.148698
+
 UCI Machine Learning Repository. (n.d.). https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 
